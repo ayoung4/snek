@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+      "target": "es2017",
+      "module": "es6",
+      "jsx": "react",
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "noImplicitAny": false,
+      "baseUrl": "./src",
+  },
+  "include": [
+      "src/**/*"
+  ]
+}
